@@ -26,6 +26,7 @@ Download earlier versions of Marlin on the [Releases page](https://github.com/Ma
 - Added `M80 S` to query the power state
 - "Cancel Print" now shuts off heaters
 - Added `EXTRAPOLATE_BEYOND_GRID` option for mesh-based leveling
+- Enabled PIDtemp and PIDtempbed
 
 ## Submitting Patches
 
